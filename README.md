@@ -41,6 +41,6 @@ My name is Philip and I'm from the San Francisco Bay Area. I am a software engin
           
 ## 🏆 GitHub Stats
 
-[![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=py415&theme=codeSTACKr&count_private=true&show_icons=true)](https://github.com/py415/github-readme-stats)
+[![Philip's GitHub stats](https://github-readme-stats-cyan-tau-94.vercel.app/api?username=py415&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=py415&theme=codeSTACKr&layout=compact)](https://github.com/py415/github-readme-stats)
+[![Top Langs](https://github-readme-stats-cyan-tau-94.vercel.app/api/top-langs/?username=py415&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
